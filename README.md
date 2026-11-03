@@ -303,10 +303,17 @@ Possible extensions for future versions include:
 
 ---
 
+## Author
 
+**Syed Rehan Syed Hamedsaleem**  
+Aspiring Data Analyst
+
+- **GitHub:** [@syedrhn0](https://github.com/syedrhn0)
+- **LinkedIn:** [syedrhn0](https://www.linkedin.com/in/syedrhn0/)
 
 ---
 
 ## License
 
 No license file is currently included in this repository. If you want others to reuse, modify, or distribute this project, add a license that matches your intentions (for example, the MIT License). Until then, do not assume the project is open-source licensed.
+
