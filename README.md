@@ -303,13 +303,7 @@ Possible extensions for future versions include:
 
 ---
 
-## Author
 
-**Syed Rehan Syed Hamedsaleem**  
-Aspiring Data Analyst
-
-- **GitHub:** [@syedrhn0](https://github.com/syedrhn0)
-- **LinkedIn:** [syedrhn0](https://www.linkedin.com/in/syedrhn0/)
 
 ---
 
